@@ -1,0 +1,54 @@
+
+<link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap" rel="stylesheet">
+body{
+  font-family: Arial, sans-serit;
+  margin: 0;
+  padding: 0;
+  background:#ffffff;
+  }
+
+header{
+  background-color:#000000;
+  color:#00ff91;
+  padding:1em 0;
+  text-align: center;
+}
+
+nav{
+  background-color:#000000;
+  overflow: hidden;
+}
+
+nav a{
+ color:#00ff91;
+  display: block;
+  padding: 14px 16px;
+  float: left;
+  text-align: center;
+  text-decoration: none;
+  font-Weight: bold;
+  transition:1s all;
+}
+
+
+nav a:hover{
+  background-color:#fafffd;
+  color:#32ed0c
+}
+.container{
+  padding:20px;   
+}
+.sessao{
+  background-color: #ffffff;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 8px;
+}
+.footer{
+  background-color: #333333;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  width: 100%;
+}
